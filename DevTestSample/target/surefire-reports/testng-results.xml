@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="def.SampleTest" duration-ms="12449" started-at="2018-09-28T04:54:19Z" finished-at="2018-09-28T04:54:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12449" started-at="2018-09-28T04:54:19Z" finished-at="2018-09-28T04:54:31Z">
+      <class name="def.SampleTest">
+        <test-method status="PASS" signature="baseTest()[pri:0, instance:def.SampleTest@2f7a2457]" name="baseTest" duration-ms="5829" started-at="2018-09-28T04:54:19Z" finished-at="2018-09-28T04:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseTest -->
+        <test-method status="PASS" signature="tLogin()[pri:0, instance:def.SampleTest@2f7a2457]" name="tLogin" duration-ms="6588" started-at="2018-09-28T04:54:25Z" finished-at="2018-09-28T04:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tLogin -->
+      </class> <!-- def.SampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- def.SampleTest -->
+</testng-results>
